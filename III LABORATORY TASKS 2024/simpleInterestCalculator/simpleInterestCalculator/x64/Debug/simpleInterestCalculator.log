@@ -1,0 +1,3 @@
+﻿  simpleInterestCalculator.cpp
+C:\Users\Admin\source\repos\simpleInterestCalculator\simpleInterestCalculator\simpleInterestCalculator.cpp(10,39): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  simpleInterestCalculator.vcxproj -> C:\Users\Admin\source\repos\simpleInterestCalculator\x64\Debug\simpleInterestCalculator.exe

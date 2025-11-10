@@ -1,0 +1,3 @@
+﻿  reverseNumber.cpp
+C:\Users\Admin\source\repos\reverseNumber\reverseNumber\reverseNumber.cpp(14,7): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  reverseNumber.vcxproj -> C:\Users\Admin\source\repos\reverseNumber\x64\Debug\reverseNumber.exe

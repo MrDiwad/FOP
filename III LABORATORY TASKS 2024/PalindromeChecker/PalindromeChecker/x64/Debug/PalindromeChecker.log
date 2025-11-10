@@ -1,0 +1,3 @@
+﻿  PalindromeChecker.cpp
+C:\Users\Admin\source\repos\PalindromeChecker\PalindromeChecker\PalindromeChecker.cpp(11,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  PalindromeChecker.vcxproj -> C:\Users\Admin\source\repos\PalindromeChecker\x64\Debug\PalindromeChecker.exe
