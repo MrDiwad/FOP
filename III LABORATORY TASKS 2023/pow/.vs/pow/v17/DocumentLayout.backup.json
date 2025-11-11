@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drutk\\source\\repos\\c_plusplus\\pow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F799ED77-1A05-4773-AF4A-C6C8CD919E76}|pow\\pow.vcxproj|C:\\Users\\drutk\\source\\repos\\c_plusplus\\pow\\pow\\pow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F799ED77-1A05-4773-AF4A-C6C8CD919E76}|pow\\pow.vcxproj|solutionrelative:pow\\pow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pow.cpp",
+              "DocumentMoniker": "C:\\Users\\drutk\\source\\repos\\c_plusplus\\pow\\pow\\pow.cpp",
+              "RelativeDocumentMoniker": "pow\\pow.cpp",
+              "ToolTip": "C:\\Users\\drutk\\source\\repos\\c_plusplus\\pow\\pow\\pow.cpp",
+              "RelativeToolTip": "pow\\pow.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T15:39:44.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
