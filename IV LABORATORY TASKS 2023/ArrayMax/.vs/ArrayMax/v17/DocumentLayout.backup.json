@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\FOP\\IV LABORATORY TASKS 2023\\ArrayMax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F18958-3102-43A5-884C-AFDED69F0D27}|ArrayMax\\ArrayMax.vcxproj|C:\\Users\\Admin\\source\\repos\\FOP\\IV LABORATORY TASKS 2023\\ArrayMax\\ArrayMax\\ArrayMax.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6F18958-3102-43A5-884C-AFDED69F0D27}|ArrayMax\\ArrayMax.vcxproj|solutionrelative:ArrayMax\\ArrayMax.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayMax.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FOP\\IV LABORATORY TASKS 2023\\ArrayMax\\ArrayMax\\ArrayMax.cpp",
+              "RelativeDocumentMoniker": "ArrayMax\\ArrayMax.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FOP\\IV LABORATORY TASKS 2023\\ArrayMax\\ArrayMax\\ArrayMax.cpp*",
+              "RelativeToolTip": "ArrayMax\\ArrayMax.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-11T12:28:40.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
