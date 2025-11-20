@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\removeAndShiftArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19B91CF6-C178-4161-B139-CACD34D57B00}|removeAndShiftArray\\removeAndShiftArray.vcxproj|C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\removeAndShiftArray\\removeAndShiftArray\\removeAndShiftArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19B91CF6-C178-4161-B139-CACD34D57B00}|removeAndShiftArray\\removeAndShiftArray.vcxproj|solutionrelative:removeAndShiftArray\\removeAndShiftArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "removeAndShiftArray.cpp",
+              "DocumentMoniker": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\removeAndShiftArray\\removeAndShiftArray\\removeAndShiftArray.cpp",
+              "RelativeDocumentMoniker": "removeAndShiftArray\\removeAndShiftArray.cpp",
+              "ToolTip": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\removeAndShiftArray\\removeAndShiftArray\\removeAndShiftArray.cpp*",
+              "RelativeToolTip": "removeAndShiftArray\\removeAndShiftArray.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T17:51:21.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

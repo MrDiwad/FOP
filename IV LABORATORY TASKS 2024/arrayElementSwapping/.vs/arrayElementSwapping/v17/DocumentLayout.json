@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\arrayElementSwapping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C44A065-EAE0-4567-9F8A-C418278BD7E0}|arrayElementSwapping\\arrayElementSwapping.vcxproj|C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\arrayElementSwapping\\arrayElementSwapping\\arrayElementSwapping.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C44A065-EAE0-4567-9F8A-C418278BD7E0}|arrayElementSwapping\\arrayElementSwapping.vcxproj|solutionrelative:arrayElementSwapping\\arrayElementSwapping.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "arrayElementSwapping.cpp",
+              "DocumentMoniker": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\arrayElementSwapping\\arrayElementSwapping\\arrayElementSwapping.cpp",
+              "RelativeDocumentMoniker": "arrayElementSwapping\\arrayElementSwapping.cpp",
+              "ToolTip": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\arrayElementSwapping\\arrayElementSwapping\\arrayElementSwapping.cpp",
+              "RelativeToolTip": "arrayElementSwapping\\arrayElementSwapping.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T16:49:08.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

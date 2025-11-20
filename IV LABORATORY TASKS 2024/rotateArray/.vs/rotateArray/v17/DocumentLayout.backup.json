@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\rotateArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA575F87-6B22-4A98-AED6-7DF312B66584}|rotateArray\\rotateArray.vcxproj|C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\rotateArray\\rotateArray\\rotateArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA575F87-6B22-4A98-AED6-7DF312B66584}|rotateArray\\rotateArray.vcxproj|solutionrelative:rotateArray\\rotateArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rotateArray.cpp",
+              "DocumentMoniker": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\rotateArray\\rotateArray\\rotateArray.cpp",
+              "RelativeDocumentMoniker": "rotateArray\\rotateArray.cpp",
+              "ToolTip": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\rotateArray\\rotateArray\\rotateArray.cpp",
+              "RelativeToolTip": "rotateArray\\rotateArray.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T15:06:09.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
