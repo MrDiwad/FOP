@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\frequencyOfElemtsArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7129DCBB-15A7-4FF2-86A3-0F2467F65B60}|frequencyOfElemtsArray\\frequencyOfElemtsArray.vcxproj|C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\frequencyOfElemtsArray\\frequencyOfElemtsArray\\frequencyOfElemtsArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7129DCBB-15A7-4FF2-86A3-0F2467F65B60}|frequencyOfElemtsArray\\frequencyOfElemtsArray.vcxproj|solutionrelative:frequencyOfElemtsArray\\frequencyOfElemtsArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frequencyOfElemtsArray.cpp",
+              "DocumentMoniker": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\frequencyOfElemtsArray\\frequencyOfElemtsArray\\frequencyOfElemtsArray.cpp",
+              "RelativeDocumentMoniker": "frequencyOfElemtsArray\\frequencyOfElemtsArray.cpp",
+              "ToolTip": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\frequencyOfElemtsArray\\frequencyOfElemtsArray\\frequencyOfElemtsArray.cpp",
+              "RelativeToolTip": "frequencyOfElemtsArray\\frequencyOfElemtsArray.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-15T12:15:36.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

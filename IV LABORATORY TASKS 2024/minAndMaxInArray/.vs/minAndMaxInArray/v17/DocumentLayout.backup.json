@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\minAndMaxInArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1046317-6192-4243-B5B9-167E36DD1773}|minAndMaxInArray\\minAndMaxInArray.vcxproj|C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\minAndMaxInArray\\minAndMaxInArray\\minAndMaxInArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1046317-6192-4243-B5B9-167E36DD1773}|minAndMaxInArray\\minAndMaxInArray.vcxproj|solutionrelative:minAndMaxInArray\\minAndMaxInArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "minAndMaxInArray.cpp",
+              "DocumentMoniker": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\minAndMaxInArray\\minAndMaxInArray\\minAndMaxInArray.cpp",
+              "RelativeDocumentMoniker": "minAndMaxInArray\\minAndMaxInArray.cpp",
+              "ToolTip": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\IV LABORATORY TASKS 2024\\minAndMaxInArray\\minAndMaxInArray\\minAndMaxInArray.cpp*",
+              "RelativeToolTip": "minAndMaxInArray\\minAndMaxInArray.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T14:28:25.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
