@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\V LABORATORY TASKS\\exercise4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0DD7F6-091A-466A-8DE6-EA979A3BB5D3}|exercise4\\exercise4.vcxproj|C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\V LABORATORY TASKS\\exercise4\\exercise4\\exercise4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B0DD7F6-091A-466A-8DE6-EA979A3BB5D3}|exercise4\\exercise4.vcxproj|solutionrelative:exercise4\\exercise4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exercise4.cpp",
+              "DocumentMoniker": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\V LABORATORY TASKS\\exercise4\\exercise4\\exercise4.cpp",
+              "RelativeDocumentMoniker": "exercise4\\exercise4.cpp",
+              "ToolTip": "C:\\Users\\drutk\\source\\repos\\MrDiwad\\FOP\\V LABORATORY TASKS\\exercise4\\exercise4\\exercise4.cpp",
+              "RelativeToolTip": "exercise4\\exercise4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-22T11:53:33.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
